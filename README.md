@@ -1,2 +1,3 @@
 # hello-world
-Jusr another repository
+Just another repository
+I am trying to learn how to code.
